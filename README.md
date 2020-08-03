@@ -22,4 +22,6 @@ Then Run it using<br>
 <b><h2>Join Our Telegram And Follow On Github. <Sup>[Support Us ❤️]
   </p>
   
-  <link >Telegram</link>
+<h3>
+<a href="https://t.me/Scriptmad">Telegram Channel </a> <br>
+<a href="https://github.com/Scriptmad">Follow on Github </a>
