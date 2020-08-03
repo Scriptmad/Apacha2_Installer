@@ -1,0 +1,47 @@
+/#!/bin/bash
+clear
+echo "Welcome to all Scriptkiddies"
+echo "[S][C][R][I][P][T][M][A][D]"
+sleep 5 && echo First Update all pkgs and repos
+git clone https://github.com/Scriptmad/ScriptKiddies.git
+clear
+cd ScriptKiddies
+chmod 777 update
+./update
+clear
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo Completed.
+clear
+cd
+echo "[S][C][R][I][P][T][M][A][D]"
+echo ""
+echo ""
+echo "Start Apache Setup"
+echo ""
+echo ""
+apt install apache2 -y
+
+
+clear
+
+cd ..
+cd usr
+cd share
+cd apache2
+apachectl
+clear
+echo "[S][C][R][I][P][T][M][A][D]"
+echo ''
+echo ""
+echo 'Join Us And Follow on Github'
+echo ""
+echo "Open Chrome Browser and Check this link--v"
+echo 'http://localhost'
+echo 'or'
+echo 'http://127.0.0.1:8080'
+
