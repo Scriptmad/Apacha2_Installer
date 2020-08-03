@@ -6,7 +6,7 @@ This Tool is designed for Installation of Apache2 in Termux
 
 # How to Install and Run it
 
-First download the tool from link
+First download the tool from this link> https://github.com/Scriptmad/Apacha2_Installer.git
 
 Give permission using this commands
 <p><code> chmod 777 Apache</code> <br>
